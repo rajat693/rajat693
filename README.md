@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I'm Rajat Chaudhary!
+
+### About Me:
+
+- Software Engineer @GeekyAnts 💻
+- Contributing to @Gluestack 🔧
+- Passionate about clean code and innovative solutions ✨
+- Tea lover and sports enthusiast ☕️🏅
+
+### Tech Stack:
+
+⚛️ React | React Native | Next.js
+🚀 JavaScript | TypeScript | C++
+
 
 <!--
 **rajat693/rajat693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
