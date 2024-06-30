@@ -9,8 +9,8 @@
 
 ### Tech Stack:
 
-⚛️ React | React Native | Next.js
-🚀 JavaScript | TypeScript | C++
+- ⚛️ React | React Native | Next.js
+- 🚀 JavaScript | TypeScript | C++
 
 
 <!--
