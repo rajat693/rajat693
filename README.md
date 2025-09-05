@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Software Engineer at @GeekyAnts, currently building @gluestack and @theappmarket.<br>🚀 Specializing in crafting high-quality mobile and web applications.<br>🧠 Passionate about clean code, elegant architecture, and innovative solutions.<br>☕ Dedicated tea lover and🏅 Sports enthusiast</p>
+<p align="left">👨‍💻 Software Engineer at @GeekyAnts, currently building @rapidnative & @gluestack previously @theappmarket.<br>🚀 Specializing in crafting high-quality mobile and web applications.<br>🧠 Passionate about clean code, elegant architecture, and innovative solutions.<br>☕ Dedicated tea lover and🏅 Sports enthusiast</p>
 
 ###
 
